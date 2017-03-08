@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamplesForXunitMoq", "Sampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstTest", "..\FirstTest\FirstTest.csproj", "{0E79BC42-466A-45B6-ACAC-FC3ED9278302}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqSamples", "MoqSamples\MoqSamples.csproj", "{DAEE9D58-326C-4DF8-B043-531F8F46620C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0E79BC42-466A-45B6-ACAC-FC3ED9278302}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E79BC42-466A-45B6-ACAC-FC3ED9278302}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E79BC42-466A-45B6-ACAC-FC3ED9278302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAEE9D58-326C-4DF8-B043-531F8F46620C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEE9D58-326C-4DF8-B043-531F8F46620C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEE9D58-326C-4DF8-B043-531F8F46620C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEE9D58-326C-4DF8-B043-531F8F46620C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

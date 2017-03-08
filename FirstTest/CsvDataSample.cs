@@ -3,11 +3,11 @@ using Xunit.Abstractions;
 
 namespace FirstTest
 {
-    public class CsvSample
+    public class CsvDataSample
     {
         private ITestOutputHelper _output;
 
-        public CsvSample(ITestOutputHelper output)
+        public CsvDataSample(ITestOutputHelper output)
         {
             _output = output;
         }
